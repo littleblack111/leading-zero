@@ -1,0 +1,8 @@
+[package]
+name = "leading-zero"
+version = "0.1.0"
+edition = "2024"
+description = "Count the amount of leading zeros"
+license = "GPL-3.0-or-later"
+
+[dependencies]
